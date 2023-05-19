@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  18 MAY 2023 20:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Homebrew) (preloaded format=pdflatex 2023.3.21)  19 MAY 2023 11:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1434,7 +1434,7 @@ File: Figures/Output_fig.jpg Graphic file (type jpg)
 Package pdftex.def Info: Figures/Output_fig.jpg  used on input line 232.
 (pdftex.def)             Requested size: 378.0pt x 214.77434pt.
 
-Overfull \hbox (126.0pt too wide) in paragraph at lines 232--234
+Overfull \hbox (126.0pt too wide) in paragraph at lines 232--235
  [][] 
  []
 
@@ -1445,10 +1445,10 @@ Package rerunfilecheck Info: File `code_1.out' has not changed.
 (rerunfilecheck)             Checksum: 16457059AED7D92FCEDB8C0B143C06E3;400.
  ) 
 Here is how much of TeX's memory you used:
- 29931 strings out of 476025
- 601934 string characters out of 5780034
+ 29932 strings out of 476025
+ 601941 string characters out of 5780034
  1869388 words of memory out of 5000000
- 49734 multiletter control sequences out of 15000+600000
+ 49735 multiletter control sequences out of 15000+600000
  570035 words of font info for 146 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  101i,6n,96p,1174b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1457,7 +1457,7 @@ fonts/rtxbsc.pfb></opt/homebrew/Cellar/texlive/20230313/share/texmf-dist/fonts/
 type1/public/txfonts/txsy.pfb></opt/homebrew/Cellar/texlive/20230313/share/texm
 f-dist/fonts/type1/urw/times/utmb8a.pfb></opt/homebrew/Cellar/texlive/20230313/
 share/texmf-dist/fonts/type1/urw/times/utmr8a.pfb>
-Output written on code_1.pdf (2 pages, 205151 bytes).
+Output written on code_1.pdf (2 pages, 205310 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream
